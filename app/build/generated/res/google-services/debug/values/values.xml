@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">63154506386-j485e1rag9nbqffkcn3fmtnic5tfei52.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://facebook-b121f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">63154506386</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjoFzp90G5bQweEHT6SLhZd-7OCJDdcfg</string>
+    <string name="google_app_id" translatable="false">1:63154506386:android:6fc811a2707b0337e7744b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjoFzp90G5bQweEHT6SLhZd-7OCJDdcfg</string>
+    <string name="google_storage_bucket" translatable="false">facebook-b121f.appspot.com</string>
+    <string name="project_id" translatable="false">facebook-b121f</string>
+</resources>
